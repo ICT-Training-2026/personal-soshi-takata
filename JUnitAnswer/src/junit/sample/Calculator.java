@@ -3,7 +3,11 @@ package junit.sample;
 public class Calculator {
 	
 
+
 	//こんにちんこまん
+
+
+	//なかじ
 
 	
 
