@@ -13,7 +13,7 @@ public class Customer {
 	//省略
 
 	public boolean checkBonus(int age, String address, int count) {
-		return age >= 20 && address.contentEquals("東京都") && count >= 1;
+		return age >= 20 && address.contentEquals("日本の首都 東京都") && count >= 1;
 	}
 
 }
