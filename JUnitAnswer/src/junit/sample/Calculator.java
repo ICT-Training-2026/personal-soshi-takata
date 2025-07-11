@@ -15,7 +15,7 @@ public class Calculator {
     }
 
     public float div(int x, int y) { //割り算
-        if (y == 0) throw new IllegalArgumentException("第二引数に0が指定されました");
+        if (y == 0) throw new IllegalArgumentException("第二引数に0が指定されました。");
 
         return (float) x / (float) y;
     }
