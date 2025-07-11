@@ -1,6 +1,8 @@
 package junit.sample;
 
 public class Calculator {
+	
+	//こんにちんこ
 
     public int add(int x, int y) { //足し算
         return x + y;
