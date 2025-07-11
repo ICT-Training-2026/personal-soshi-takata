@@ -5,7 +5,7 @@ public class Calculator {
 
 
 	//こんにちんこまんこ！！！
-	//なかじ
+	//イエーイ
 
 	
 
@@ -27,3 +27,5 @@ public class Calculator {
         return (float) x / (float) y;
     }
 }
+
+//aa
