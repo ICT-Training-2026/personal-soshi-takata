@@ -5,8 +5,6 @@ public class Calculator {
 
 
 	//こんにちんこまん
-
-
 	//なかじ
 
 	
