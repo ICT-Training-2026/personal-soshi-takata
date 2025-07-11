@@ -2,7 +2,7 @@ package junit.sample;
 
 public class Calculator {
 	
-	//こんにちんこ
+	//なかじっち
 	
 
     public int add(int x, int y) { //足し算
