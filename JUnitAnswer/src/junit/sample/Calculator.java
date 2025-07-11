@@ -4,7 +4,7 @@ public class Calculator {
 	
 
 
-	//こんにちんこまん
+	//こんにちんこまんこ！！！
 	//なかじ
 
 	
